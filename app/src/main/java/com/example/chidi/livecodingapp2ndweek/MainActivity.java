@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/**
+ * This is Dragos's Review
+ */
 public class MainActivity extends AppCompatActivity implements MyInterface{
 
 
