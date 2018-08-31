@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class FragmentTwo extends Fragment {
 
+    //
     TextView display;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
