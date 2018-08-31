@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LiveCodingApp2ndWeek</string>
+
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="enterName">Enter Name</string>
+    <string name="enterPass">Enter Password</string>
+    <string name="nameHint">Enter Name</string>
+
 </resources>
