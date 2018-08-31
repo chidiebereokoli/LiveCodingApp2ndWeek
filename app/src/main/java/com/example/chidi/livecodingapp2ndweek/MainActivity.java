@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /**
- * This is Dragos's Review
+ * This is Dragos's Review and Andy
  */
 public class MainActivity extends AppCompatActivity implements MyInterface{
 
